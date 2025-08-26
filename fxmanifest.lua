@@ -1,4 +1,4 @@
--- Generated with Durty Cloth Tool v3.1.0.3 (https://gta.clothing)
+-- Generated with Durty Cloth Tool v3.2.0.0 (https://gta.clothing)
 
 fx_version 'cerulean'
 game { 'gta5' }
