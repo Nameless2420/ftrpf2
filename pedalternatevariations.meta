@@ -630,11 +630,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -1262,11 +1257,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -1896,11 +1886,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -2528,11 +2513,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -3162,11 +3142,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -3794,11 +3769,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -4428,11 +4398,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -5060,11 +5025,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -5694,11 +5654,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -6326,11 +6281,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -6960,11 +6910,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -7592,11 +7537,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -8226,11 +8166,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -8858,11 +8793,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -9492,11 +9422,6 @@
                             <component value="11" />
                             <index value="123" />
                         </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
-                        </Item>
                     </sourceAssets>
                 </Item>
                 <Item>
@@ -10124,11 +10049,6 @@
                             <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                             <component value="11" />
                             <index value="123" />
-                        </Item>
-                        <Item>
-                            <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                            <component value="11" />
-                            <index value="124" />
                         </Item>
                     </sourceAssets>
                 </Item>
@@ -11088,22 +11008,6 @@
                     <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
                     <component value="2" />
                     <index value="119" />
-                    <alt value="3" />
-                    <sourceAssets>
-                    </sourceAssets>
-                </Item>
-                <Item>
-                    <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                    <component value="2" />
-                    <index value="120" />
-                    <alt value="3" />
-                    <sourceAssets>
-                    </sourceAssets>
-                </Item>
-                <Item>
-                    <dlcNameHash>mp_f_ftrpf2</dlcNameHash>
-                    <component value="2" />
-                    <index value="121" />
                     <alt value="3" />
                     <sourceAssets>
                     </sourceAssets>

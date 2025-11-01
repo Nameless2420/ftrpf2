@@ -882,7 +882,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_047_a_uni -->
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_009_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -901,7 +901,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_047_b_uni -->
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_009_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -920,7 +920,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_047_c_uni -->
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_009_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -1034,7 +1034,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_013_a_uni -->
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -1053,7 +1053,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_013_b_uni -->
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -1070,6 +1070,272 @@
 			<localDrawableIndex value="13" />
 			<eCompType>PV_COMP_TEEF</eCompType>
 			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_c_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_2_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_d_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_3_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_e_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_4_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_f_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_5_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_g_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_6_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_h_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_7_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_i_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_8_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_j_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_9_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_k_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_10_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_l_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_11_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="11" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_m_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_12_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="12" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_n_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_13_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="13" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_o_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_14_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="14" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_p_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_ACCESSORIES_13_15_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="13" />
+			<eCompType>PV_COMP_TEEF</eCompType>
+			<textureIndex value="15" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_014_a_uni -->
@@ -2782,310 +3048,6 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="14" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Accessories: Accessories - mp_f_freemode_01_mp_f_ftrpf2^teef_diff_046_p_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ACCESSORIES_46_15_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="46" />
-			<eCompType>PV_COMP_TEEF</eCompType>
-			<textureIndex value="15" />
-			<isInOutfit value="false" />
-		</Item>
         <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_000_a_uni -->
         <Item>
             <lockHash />
@@ -3143,7 +3105,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_003_a_uni -->
+        <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_015_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3333,7 +3295,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_013_a_uni -->
+        <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_014_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -3348,44 +3310,6 @@
             <variantComponents />
 			<drawableIndex value="0" />
 			<localDrawableIndex value="13" />
-			<eCompType>PV_COMP_TASK</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_014_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ARMOR_14_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="14" />
-			<eCompType>PV_COMP_TASK</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Armor: Armor - mp_f_freemode_01_mp_f_ftrpf2^task_diff_015_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_ARMOR_15_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="15" />
 			<eCompType>PV_COMP_TASK</eCompType>
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
@@ -6012,44 +5936,6 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Hair: Hair - mp_f_freemode_01_mp_f_ftrpf2^hair_diff_119_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_HAIR_120_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="120" />
-			<eCompType>PV_COMP_HAIR</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Hair: Hair - mp_f_freemode_01_mp_f_ftrpf2^hair_diff_120_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_HAIR_121_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="121" />
-			<eCompType>PV_COMP_HAIR</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
         <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_000_a_whi -->
         <Item>
             <lockHash />
@@ -6658,7 +6544,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_e_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6677,7 +6563,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_f_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6696,7 +6582,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_g_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6715,7 +6601,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_h_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6734,7 +6620,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_i_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6753,7 +6639,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_j_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6772,7 +6658,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_k_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6791,7 +6677,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_l_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6810,7 +6696,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_m_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6829,7 +6715,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_n_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6848,7 +6734,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_o_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6867,7 +6753,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_p_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6886,7 +6772,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_a_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_m_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6905,7 +6791,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_b_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_n_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6924,7 +6810,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_c_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_o_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -6943,7 +6829,7 @@
 			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_d_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_003_p_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7399,7 +7285,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_d_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7418,7 +7304,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_e_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7437,7 +7323,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_a_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7456,7 +7342,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_b_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7475,7 +7361,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_c_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_008_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -7988,7 +7874,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_a_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_a_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8007,7 +7893,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_b_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_b_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8026,7 +7912,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_c_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_c_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8045,7 +7931,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_d_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_d_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8064,7 +7950,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_e_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_e_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8083,7 +7969,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_f_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_f_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8102,7 +7988,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_g_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_g_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8121,7 +8007,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_h_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_h_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8140,7 +8026,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_i_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_i_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8159,7 +8045,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_j_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_j_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8178,7 +8064,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_k_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_k_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8197,7 +8083,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_l_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_l_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8216,7 +8102,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_m_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_m_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8235,7 +8121,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_n_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_n_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8254,7 +8140,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_o_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_o_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -8273,7 +8159,7 @@
 			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_070_p_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_012_p_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9850,7 +9736,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_b_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9869,7 +9755,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_c_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9888,7 +9774,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_d_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9907,7 +9793,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_e_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9926,7 +9812,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_f_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9945,7 +9831,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_g_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9964,7 +9850,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_h_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -9983,7 +9869,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_i_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10002,7 +9888,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_j_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10021,7 +9907,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_k_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10040,7 +9926,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_l_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10059,7 +9945,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_m_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10078,7 +9964,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_n_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_m_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10097,7 +9983,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_o_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_n_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10116,7 +10002,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_p_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_o_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10135,7 +10021,7 @@
 			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_q_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_p_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10154,7 +10040,7 @@
 			<textureIndex value="15" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_r_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_023_q_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10173,7 +10059,7 @@
 			<textureIndex value="16" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_a_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_a_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10192,7 +10078,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_b_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_b_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10211,7 +10097,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_c_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_c_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10230,7 +10116,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_d_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_d_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10249,7 +10135,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_e_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_e_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10268,7 +10154,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_f_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_f_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10287,7 +10173,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_g_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_g_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10306,7 +10192,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_h_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_h_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10325,7 +10211,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_i_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_i_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10344,7 +10230,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_j_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_j_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10363,7 +10249,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_k_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_k_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10382,7 +10268,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_l_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_l_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10401,7 +10287,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_m_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_m_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -10420,7 +10306,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_068_n_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_024_n_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -12491,7 +12377,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_a_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_o_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -12510,7 +12396,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_b_uni -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_p_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -12527,272 +12413,6 @@
 			<localDrawableIndex value="35" />
 			<eCompType>PV_COMP_LOWR</eCompType>
 			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="14" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_035_p_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_LEGS_35_15_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="35" />
-			<eCompType>PV_COMP_LOWR</eCompType>
-			<textureIndex value="15" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_036_a_uni -->
@@ -14619,7 +14239,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_e_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_c_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14638,7 +14258,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_f_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_d_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14657,7 +14277,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_g_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_e_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14676,7 +14296,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_h_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_f_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14695,7 +14315,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_i_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_g_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14714,7 +14334,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_j_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_h_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14733,7 +14353,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_k_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_046_i_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14847,7 +14467,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_a_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_a_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14866,7 +14486,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_b_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_b_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14885,7 +14505,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_c_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_c_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14904,7 +14524,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_d_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_d_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14923,7 +14543,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_e_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_e_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14942,7 +14562,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_f_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_f_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14961,7 +14581,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_g_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_g_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14980,7 +14600,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_h_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_h_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -14999,7 +14619,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_067_i_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_048_i_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15018,7 +14638,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_a_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_a_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15037,7 +14657,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_b_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_b_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15056,7 +14676,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_c_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_c_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15075,7 +14695,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_d_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_d_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15094,7 +14714,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_e_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_e_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15113,7 +14733,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_f_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_f_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15132,7 +14752,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_g_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_g_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15151,7 +14771,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_066_h_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_049_h_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15360,7 +14980,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_051_j_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_051_g_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -15379,7 +14999,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_051_k_whi -->
+        <!-- Legs: Legs - mp_f_freemode_01_mp_f_ftrpf2^lowr_diff_051_h_whi -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -17868,7 +17488,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -17887,7 +17507,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_g_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -17906,7 +17526,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_h_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -17925,7 +17545,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_000_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -18058,7 +17678,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_a_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -18077,7 +17697,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_b_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -18096,7 +17716,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -18115,7 +17735,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -18134,7 +17754,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -18153,7 +17773,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_001_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29135,7 +28755,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_a_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29154,7 +28774,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_b_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29173,7 +28793,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29192,7 +28812,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29211,7 +28831,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29230,7 +28850,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29249,7 +28869,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_g_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29268,7 +28888,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_h_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29287,7 +28907,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_i_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29306,7 +28926,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_j_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29325,7 +28945,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_k_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29344,7 +28964,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_l_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -29363,7 +28983,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_127_m_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_066_m_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -31510,7 +31130,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -31529,7 +31149,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -31548,7 +31168,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_a_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -31567,7 +31187,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_083_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32137,7 +31757,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32156,7 +31776,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_g_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32175,7 +31795,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_h_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32194,7 +31814,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_i_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32213,7 +31833,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_j_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32232,7 +31852,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_k_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32251,7 +31871,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_l_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32270,7 +31890,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_m_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32289,7 +31909,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_n_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -32308,7 +31928,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_p_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_088_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33619,7 +33239,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33638,7 +33258,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33657,7 +33277,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_g_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33676,7 +33296,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_h_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33695,7 +33315,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_i_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33714,7 +33334,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_j_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33733,7 +33353,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_k_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33752,7 +33372,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_l_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33771,7 +33391,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_m_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33790,7 +33410,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_b_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33809,7 +33429,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -33828,7 +33448,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_095_m_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -35842,7 +35462,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_126_a_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_110_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -35861,7 +35481,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_126_b_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_110_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -35880,7 +35500,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_126_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_110_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -35899,7 +35519,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_126_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_110_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36526,7 +36146,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_117_i_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_117_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36545,7 +36165,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_117_m_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_117_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36564,7 +36184,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_117_p_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_117_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36583,7 +36203,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36602,7 +36222,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36621,7 +36241,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36640,7 +36260,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_g_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36659,7 +36279,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_h_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36678,7 +36298,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_i_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36697,7 +36317,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_j_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36716,7 +36336,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_k_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36735,7 +36355,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_l_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36754,7 +36374,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_m_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36773,7 +36393,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_n_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36792,7 +36412,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_o_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36811,7 +36431,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_p_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_m_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36830,7 +36450,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_q_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_n_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36849,7 +36469,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_r_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_o_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36868,7 +36488,7 @@
 			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_s_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_p_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36887,7 +36507,7 @@
 			<textureIndex value="15" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_t_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_q_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36906,7 +36526,7 @@
 			<textureIndex value="16" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_u_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_r_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36925,7 +36545,7 @@
 			<textureIndex value="17" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_a_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_s_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36944,7 +36564,7 @@
 			<textureIndex value="18" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_b_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_t_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36963,7 +36583,7 @@
 			<textureIndex value="19" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_118_u_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -36982,7 +36602,7 @@
 			<textureIndex value="20" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_a_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37001,7 +36621,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_b_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37020,7 +36640,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_c_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37039,7 +36659,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_d_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37058,7 +36678,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_e_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37077,7 +36697,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_f_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_f_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37096,7 +36716,7 @@
 			<textureIndex value="5" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_g_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_g_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37115,7 +36735,7 @@
 			<textureIndex value="6" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_h_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_h_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37134,7 +36754,7 @@
 			<textureIndex value="7" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_i_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_i_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37153,7 +36773,7 @@
 			<textureIndex value="8" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_j_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_j_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37172,7 +36792,7 @@
 			<textureIndex value="9" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_k_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_k_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37191,7 +36811,7 @@
 			<textureIndex value="10" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_l_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_l_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37210,7 +36830,7 @@
 			<textureIndex value="11" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_m_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_m_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37229,7 +36849,7 @@
 			<textureIndex value="12" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_n_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_n_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37248,7 +36868,7 @@
 			<textureIndex value="13" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_o_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_o_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37267,7 +36887,7 @@
 			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_p_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_p_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37286,7 +36906,7 @@
 			<textureIndex value="15" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_q_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_q_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37305,7 +36925,7 @@
 			<textureIndex value="16" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_r_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_r_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37324,7 +36944,7 @@
 			<textureIndex value="17" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_s_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_s_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37343,7 +36963,7 @@
 			<textureIndex value="18" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_t_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_t_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37362,7 +36982,7 @@
 			<textureIndex value="19" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_u_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_u_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37381,7 +37001,7 @@
 			<textureIndex value="20" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_v_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_v_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37400,7 +37020,7 @@
 			<textureIndex value="21" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_w_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_w_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37419,7 +37039,7 @@
 			<textureIndex value="22" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_x_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_x_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37438,7 +37058,7 @@
 			<textureIndex value="23" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_y_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_y_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -37457,7 +37077,7 @@
 			<textureIndex value="24" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_125_z_uni -->
+        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_119_z_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -38407,482 +38027,7 @@
 			<textureIndex value="17" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="14" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_p_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_15_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="15" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_q_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_16_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="16" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_r_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_17_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="17" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_s_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_18_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="18" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_t_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_19_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="19" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_u_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_20_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="20" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_v_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_21_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="21" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_w_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_22_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="22" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_x_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_23_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="23" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Top: Top - mp_f_freemode_01_mp_f_ftrpf2^jbib_diff_124_y_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_TOP_124_24_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="124" />
-			<eCompType>PV_COMP_JBIB</eCompType>
-			<textureIndex value="24" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_000_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -38901,7 +38046,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_000_b_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -38920,7 +38065,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_000_c_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -38939,7 +38084,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_000_d_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -38958,7 +38103,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_000_e_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_e_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39338,7 +38483,7 @@
 			<textureIndex value="3" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_006_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39357,7 +38502,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_006_b_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39376,7 +38521,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_006_c_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39395,7 +38540,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_006_d_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_d_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39412,6 +38557,25 @@
 			<localDrawableIndex value="6" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_e_uni -->
+        <Item>
+            <lockHash />
+            <cost value="0"/>
+            <textLabel />
+            <uniqueNameHash>CLO_DCT_UNDERSHIRT_6_4_F</uniqueNameHash>
+            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="6" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_007_a_uni -->
@@ -39509,7 +38673,7 @@
 			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_008_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_076_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39528,7 +38692,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_008_b_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_076_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -39545,25 +38709,6 @@
 			<localDrawableIndex value="8" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_008_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_8_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="8" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_009_a_uni -->
@@ -41580,7 +40725,7 @@
 			<textureIndex value="19" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_079_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -41599,7 +40744,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_b_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_079_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -41618,7 +40763,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_c_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_079_c_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -41635,329 +40780,6 @@
 			<localDrawableIndex value="21" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="14" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_p_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_15_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="15" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_q_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_16_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="16" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_r_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_17_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="17" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_s_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_18_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="18" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_021_t_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_21_19_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="21" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="19" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_022_a_uni -->
@@ -44297,7 +43119,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_078_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -44314,367 +43136,6 @@
 			<localDrawableIndex value="52" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="14" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_p_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_15_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="15" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_q_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_16_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="16" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_r_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_17_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="17" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_s_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_18_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="18" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_052_t_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_52_19_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="52" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="19" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_053_a_uni -->
@@ -45228,7 +43689,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_066_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_077_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -45245,25 +43706,6 @@
 			<localDrawableIndex value="66" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_066_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_66_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="66" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_067_a_uni -->
@@ -46216,7 +44658,7 @@
 			<textureIndex value="2" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_075_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -46235,7 +44677,7 @@
 			<textureIndex value="0" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_b_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_075_b_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -46254,254 +44696,7 @@
 			<textureIndex value="1" />
 			<isInOutfit value="false" />
 		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_071_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_71_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="71" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="14" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_a_uni -->
+        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_074_a_uni -->
         <Item>
             <lockHash />
             <cost value="0"/>
@@ -46518,272 +44713,6 @@
 			<localDrawableIndex value="72" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_f_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_5_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="5" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_g_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_6_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="6" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_h_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_7_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="7" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_i_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_8_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="8" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_j_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_9_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="9" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_k_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_10_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="10" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_l_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_11_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="11" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_m_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_12_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="12" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_n_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_13_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="13" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_072_o_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_72_14_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="72" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="14" />
 			<isInOutfit value="false" />
 		</Item>
         <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_073_a_uni -->
@@ -46803,386 +44732,6 @@
 			<localDrawableIndex value="73" />
 			<eCompType>PV_COMP_ACCS</eCompType>
 			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_074_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_74_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="74" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_075_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_75_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="75" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_075_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_75_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="75" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_076_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_76_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="76" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_076_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_76_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="76" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_077_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_77_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="77" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_078_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_78_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="78" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_079_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_79_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="79" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_079_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_79_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="79" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_079_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_79_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="79" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_80_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="80" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_80_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="80" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_80_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="80" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_80_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="80" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_080_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_80_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="80" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="4" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_a_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_81_0_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="81" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="0" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_b_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_81_1_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="81" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="1" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_c_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_81_2_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="81" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="2" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_d_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_81_3_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="81" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="3" />
-			<isInOutfit value="false" />
-		</Item>
-        <!-- Undershirt: Undershirt - mp_f_freemode_01_mp_f_ftrpf2^accs_diff_081_e_uni -->
-        <Item>
-            <lockHash />
-            <cost value="0"/>
-            <textLabel />
-            <uniqueNameHash>CLO_DCT_UNDERSHIRT_81_4_F</uniqueNameHash>
-            <eShopEnum>CLO_SHOP_NONE</eShopEnum>
-			<locate value="-99" />
-			<scriptSaveData value="0" />
-			<restrictionTags>
-			</restrictionTags>
-            <forcedComponents />
-            <variantComponents />
-			<drawableIndex value="0" />
-			<localDrawableIndex value="81" />
-			<eCompType>PV_COMP_ACCS</eCompType>
-			<textureIndex value="4" />
 			<isInOutfit value="false" />
 		</Item>
 	</pedComponents>
